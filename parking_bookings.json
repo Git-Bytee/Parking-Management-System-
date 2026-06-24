@@ -1,0 +1,62 @@
+
+[
+    {
+        "id": 1,
+        "vehicle": "EFCDC",
+        "vehicle_type": "EV Motorcycle",
+        "slot": "8",
+        "start_time": "2025-10-25 22:15:00",
+        "end_time": "2025-10-25 23:15:00",
+        "status": "Completed",
+        "charge": 130,
+        "premium_fee": 50
+    },
+    {
+        "id": 2,
+        "vehicle": "75687",
+        "vehicle_type": "EV Motorcycle",
+        "slot": "42",
+        "start_time": "2025-11-05 14:32:13",
+        "end_time": "2025-11-25 21:00:00",
+        "status": "Completed",
+        "charge": 880,
+        "premium_fee": 0,
+        "cost": 1
+    },
+    {
+        "id": 3,
+        "vehicle": "QWE",
+        "vehicle_type": "Car",
+        "slot": "5",
+        "start_time": "2025-11-02 15:00:00",
+        "end_time": "2025-11-02 23:00:00",
+        "status": "Completed",
+        "charge": 850,
+        "premium_fee": 50,
+        "cost": 3
+    },
+    {
+        "id": 4,
+        "vehicle": "12347",
+        "vehicle_type": "Car",
+        "slot": "4",
+        "start_time": "2025-11-05 11:00:00",
+        "end_time": "2025-11-05 14:00:00",
+        "status": "Completed",
+        "charge": 330.0,
+        "premium_fee": 50,
+        "cost": 3
+    },
+    {
+        "id": 5,
+        "vehicle": "12ERWF",
+        "vehicle_type": "Car",
+        "slot": "3",
+        "start_time": "2025-11-05 14:30:00",
+        "end_time": "2025-11-05 15:00:00",
+        "status": "Completed",
+        "charge": 150.0,
+        "premium_fee": 50,
+        "cost": 3
+    }
+]

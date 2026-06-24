@@ -1,0 +1,354 @@
+{
+    "slots": {
+        "1": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "2": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "3": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "4": {
+            "vehicles": [
+                "4T53GT"
+            ],
+            "capacity_left": 0,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "5": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "6": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "7": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": true
+        },
+        "8": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": true
+        },
+        "9": {
+            "vehicles": [
+                "4R3"
+            ],
+            "capacity_left": 2,
+            "is_ev": true,
+            "is_premium": true
+        },
+        "10": {
+            "vehicles": [
+                "34R"
+            ],
+            "capacity_left": 0,
+            "is_ev": true,
+            "is_premium": true
+        },
+        "11": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "12": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "13": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "14": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "15": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "16": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "17": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "18": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "19": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "20": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "21": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "22": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "23": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "24": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "25": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "26": {
+            "vehicles": [
+                "4R4TG3R"
+            ],
+            "capacity_left": 0,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "27": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "28": {
+            "vehicles": [
+                "67OY",
+                "3RF"
+            ],
+            "capacity_left": 1,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "29": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "30": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "31": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "32": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "33": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "34": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "35": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "36": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "37": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "38": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "39": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "40": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": false,
+            "is_premium": false
+        },
+        "41": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "42": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "43": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "44": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "45": {
+            "vehicles": [
+                "21E3"
+            ],
+            "capacity_left": 2,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "46": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "47": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "48": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "49": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        },
+        "50": {
+            "vehicles": [],
+            "capacity_left": 3,
+            "is_ev": true,
+            "is_premium": false
+        }
+    },
+    "vehicles": {
+        "67OY": {
+            "slot": "28",
+            "type": "Motorcycle",
+            "entry_time": "2025-10-25 23:30:35"
+        },
+        "21E3": {
+            "slot": "45",
+            "type": "Motorcycle",
+            "entry_time": "2025-11-05 10:47:24"
+        },
+        "3RF": {
+            "slot": "28",
+            "type": "Motorcycle",
+            "entry_time": "2025-11-05 23:34:38"
+        },
+        "4R4TG3R": {
+            "slot": "26",
+            "type": "Car",
+            "entry_time": "2025-11-05 23:34:46"
+        },
+        "4T53GT": {
+            "slot": "4",
+            "type": "Car",
+            "entry_time": "2025-11-05 23:34:56"
+        },
+        "4R3": {
+            "slot": "9",
+            "type": "Motorcycle",
+            "entry_time": "2025-11-05 23:35:03"
+        },
+        "34R": {
+            "slot": "10",
+            "type": "EV Car",
+            "entry_time": "2025-11-05 23:35:46"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2026-06-24",
+        "total_revenue": 0,
+        "premium_revenue": 0,
+        "penalty_revenue": 0,
+        "total_vehicles": 0,
+        "avg_duration_hours": 0,
+        "vehicle_counts": {
+            "Bike": 0,
+            "Car": 0,
+            "EV Bike": 0,
+            "EV Car": 0
+        }
+    }
+]
